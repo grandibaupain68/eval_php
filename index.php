@@ -64,11 +64,11 @@ catch (Exception $e)
                     <td></td>
                     <td></td>
                     <td>
-                    <button class="btn btn-primary btn-lg" type="button">
-                        <a href="add.php">
-                        <img src="crud-icon/add.png " alt="logo ajouter"/> Create
-                        </a>
-                    </button>                    
+                    <a href="add.php">
+                        <button class="btn btn-primary btn-lg text-white" type="button">
+                              <img src="crud-icon/add.png " alt="logo ajouter"/> Create                         
+                        </button>     
+                    </a>               
                     </td>
                 </th>
             </tr>
